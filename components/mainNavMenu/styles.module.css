@@ -1,0 +1,9 @@
+.erc {
+  fill: #dadada;
+  height: 1.5rem;
+  transition: fill 0.2s ease;
+}
+
+.si > path {
+  fill: #dadada;
+}

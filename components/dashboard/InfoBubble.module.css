@@ -1,0 +1,7 @@
+/* InfoBubble.module.css */
+.infoBubble {
+  position: relative;
+  padding: 10px;
+  top: 0; /* Align with the top of the parent element */
+  pointer-events: none; /* Add this line */
+}

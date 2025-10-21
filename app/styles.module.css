@@ -1,0 +1,8 @@
+.svgfill {
+  /* random css elem */
+  fill: white;
+}
+.svgfill:hover {
+  filter: invert(31%) sepia(0%) saturate(108%) hue-rotate(197deg)
+    brightness(100%) contrast(84%);
+}
