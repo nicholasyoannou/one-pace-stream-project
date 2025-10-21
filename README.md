@@ -6,7 +6,7 @@
 
   A proof-of-concept web application integrating with a popular third-party streaming service.
 
-<!-- Replace with video here; since GitHub's video embeds only work through the viewer -->
+https://github.com/user-attachments/assets/81f67ea3-0d72-4748-b4bd-7620f5717db2
 
 </div>
 
