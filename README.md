@@ -2,7 +2,7 @@
   <br>    
 <picture style="display:inline-block; max-width:200px; padding-bottom: 5px">
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo.png">
-    <img src=".github/assets/logo-light.svg" alt="Logo" style="width:100%; height:auto; display:block;">
+    <img src=".github/assets/logo-light.svg" alt="Logo" style="width:25%; height:auto; display:block;">
 </picture>
 
 
